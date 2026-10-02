@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-apply-plugin",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "网页半自动投递 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-apply-plugin": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "apply-plugin"
+  ]
+}
